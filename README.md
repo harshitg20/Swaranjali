@@ -2,6 +2,8 @@
 
 ## Overview
 Swaranjali is an innovative app designed to break communication barriers for individuals with auditory impairments by offering a user-friendly platform to learn sign language. Leveraging Web3, NFT technology, and the EduChain Network, Swaranjali aims to provide a personalized, gamified, and inclusive learning experience.
+## Video Link 
+## https://drive.google.com/file/d/1ed80N6vxVFxovIj6cj3kkz2oO_iDTmON/view?usp=drive_link
 
 ---
 
